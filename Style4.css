@@ -1,0 +1,45 @@
+#navbar {
+    height : 60px;
+    width : 100vw;
+    background-color: white;
+    color: white;
+    position : fixed;
+    top : 0;
+    margin : 0;
+}
+#acc {
+    padding: 0;
+    color: black;
+    font-size: 18px;
+    margin-left: 50px;
+}
+#logo {
+    color : #0c0d0f;
+    font-size: 30px;
+    margin-right: 500px;
+    color: #00296b;
+}
+a {
+    text-decoration: none;
+    
+}
+body {
+     /* background-color: #defce1;  */
+}
+h1 {
+    color: #349bd6;
+    font-family: Footlight MT Light;
+    font-weight: bolder;
+    font-size: 45px;
+}
+h2 {
+    background-color: #349bd6;
+    color: white;
+    font-size: 25px;
+}
+h3 {
+    font-size: 23px;
+}
+p {
+    font-size: 18px;
+}
